@@ -30,7 +30,7 @@
           "tar-fs":"1.15.1",
           "materialize-css":"0.6.1",
           "gitlabhook":"0.0.1",
-          "total.js":"2.2"
+          "total.js":"3.4"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
