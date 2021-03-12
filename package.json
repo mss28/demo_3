@@ -17,7 +17,7 @@
     "devDependencies": {
           "sequelize": "4.43.0",
           "swagger-ui":"0.2.1",
-          "mongoose":"0.0.1",
+          "mongoose":"5.12.0",
           "bower":"0.3.1",
           "larvitbase-api":"0.3.1",
           "keycloak-js":"2.6",
