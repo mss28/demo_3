@@ -16,7 +16,7 @@
     },
     "devDependencies": {
           "sequelize": "4.43.0",
-          "swagger-ui":"0.2.1",
+          "swagger-ui":"3.45.0",
           "mongoose":"0.0.1",
           "bower":"0.3.1",
           "larvitbase-api":"0.3.1",
